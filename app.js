@@ -11,6 +11,7 @@ const triplePlusBtn = document.getElementById('triple-increm-btn');
 const fiveFoldPlusBtn = document.getElementById('five-fold-increm-btn');
 const doubleMinusBtn = document.getElementById('double-decrem-btn');
 const tripleMinusBtn = document.getElementById('triple-decrem-btn');
+const fiveFoldMinusBtn = document.getElementById('five-fold-decrem-btn');
 
 let count = 0;
 
