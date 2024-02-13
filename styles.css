@@ -190,8 +190,8 @@ div button:focus:active {
 @media (max-width: 466px) {
   main button {
     margin: 0 5px;
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
     font-size: 0.6rem;
     font-weight: 600;
   }
